@@ -13,7 +13,7 @@
   "dependencies": {
     "express": "^4.21.1",
     "feather-icons": "^4.29.2",
-    "firebase": "^10.8.0",
+    "firebase": "^10.14.1",
     "http-server": "^14.1.1",
     "mongoose": "^8.1.1"
   }
